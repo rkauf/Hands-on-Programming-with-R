@@ -1,0 +1,36 @@
+*.csv
+*.rdata
+*.rds
+*.gz
+*.Rproj.user
+*.Rhistory
+*.Rbuildignore
+.Rproj.user/*
+# History files
+.Rhistory
+.Rapp.history
+# Example code in package build process
+*-Ex.R
+# RStudio files
+.Rproj.user/
+.Rproj.user
+*.Rproj
+~$*
+*/~$*.xlsx
+*cache/
+*.RDS
+*pycache
+playground/*
+packrat/lib/*
+packrat/lib*/
+packrat/lib-R/*
+packrat/lib-R/
+packrat/src/
+packrat/
+packrat/*
+/packrat/
+/packrat/*
+*.Rprofile
+!packrat/packrat.lock
+*.DS_Store
+.DS_Store
